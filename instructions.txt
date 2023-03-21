@@ -1,0 +1,26 @@
+*************************************************************************************
+
+Note: All sections must be performed in SQL as well as Python. You can start with any tool of your choice.
+
+Section 1:
+- Join the 3 tables based on Country Code
+- Top 5 countries with highest Gold Medals
+- Bottom 5 countries with highest Bronze Medals
+
+Section 2:
+- Apply weighted Sum scoring. Assume the weight appropriately and mention your assumptions
+- Top 5 countries by Overall Weighted Scores
+- Bottom 5 countries by Overall Weighted Scores
+
+Section 3:
+- Add a column that determines the Continent of the country (you can use google for it)
+- Continent wise Top 2 counties by Gold medals
+
+Section 4:
+# For Python only,
+- Present any 3 solutions from the above with Visualization
+
+Section 5:
+# Write steps in brief words only,
+- Process to read data directly from a DB server into a Python environment.
+- Once the ML model has been validated, process to package it and deploy it on a Cloud server.
